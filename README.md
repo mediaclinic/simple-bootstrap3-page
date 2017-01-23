@@ -4,7 +4,7 @@ This is simple boilerplate for Bootstrap 3 page
 
 # HTML Basics
 ```
-<div class="kirjoita_luokka">
+<div class="Your class">
 
 </div>
 ````
@@ -19,27 +19,41 @@ This is simple boilerplate for Bootstrap 3 page
 ````
 ## Paragraph
 ```
-<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.</p>
-````
+<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.</p>
+```
 ## Image
 ```
 <img class="img-responsive" src="http://placehold.it/350x300/EEE04A/ffffff" alt="Image Description">
 ````
 ## Link
 ```
-<a href="#">Name of the linki</a>
+<a href="#">Name of the link</a>
 ````
 ## Bootstrap basic snippet
 ```
+<!-- Container BEGIN -->
 <div class="container">
+
+	<!-- Row BEGIN -->
 	<div class="row">
 
+		<!-- Columns -->
 		<div class="col-md-6">
+
+			<h4>Column 1</h4>
+
 		</div>
 		
 		<div class="col-md-6">
+
+			<h4>Column 2</h4>
+
 		</div>
+		<!-- Columns END -->
 
 	</div>
+	<!-- Row END -->
+
 </div>
+<!-- Container END -->
 ````
