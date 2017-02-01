@@ -56,4 +56,18 @@ This is simple boilerplate for Bootstrap 3 page
 
 </div>
 <!-- Container END -->
-````
+```
+
+# Useful links
+
+### Icons
+http://fontawesome.io
+
+Basic usage:
+```
+<i class="fa fa-snowflake-o fa-3x" aria-hidden="true"></i>
+```
+
+### Hover Effects
+https://miketricking.github.io/dist/
+
