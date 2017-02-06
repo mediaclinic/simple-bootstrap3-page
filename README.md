@@ -71,3 +71,11 @@ Basic usage:
 ### Hover Effects
 https://miketricking.github.io/dist/
 
+### Image as background
+```
+<div class="img-portfolio" style="background-image: url(images/INSERTNAMEHERE.jpg); 50% 50%;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;">
+</div>
+
+```
+
+Remember to create height in LESS for this element (img-portfolio).
