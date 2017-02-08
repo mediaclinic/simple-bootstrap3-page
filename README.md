@@ -85,3 +85,8 @@ Remember to create height in LESS for this element (img-portfolio).
 - Unsplash (http://www.unsplash.com)
 - Freeimages (http://www.freeimages.com) -> needs registration
 
+### Embed your Instagram images with selectable #hashtag
+
+https://www.lightwidget.com
+
+Remember to authorize plugin on your Instagram account
