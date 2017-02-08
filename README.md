@@ -79,3 +79,9 @@ https://miketricking.github.io/dist/
 ```
 
 Remember to create height in LESS for this element (img-portfolio).
+
+### Need images?
+
+- Unsplash (http://www.unsplash.com)
+- Freeimages (http://www.freeimages.com) -> needs registration
+
