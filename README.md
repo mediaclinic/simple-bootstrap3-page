@@ -58,6 +58,33 @@ This is simple boilerplate for Bootstrap 3 page
 <!-- Container END -->
 ```
 
+### Image as background
+```
+<div class="img-portfolio" style="background-image: url(images/INSERTNAMEHERE.jpg); 50% 50%;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;">
+</div>
+
+```
+
+Remember to create height in LESS for this element (img-portfolio).
+
+
+## Responsive videoplayer (YouTube)
+
+```
+<div class="embed-responsive embed-responsive-16by9">
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ctvlUvN6wSE"></iframe>
+</div>
+```
+
+With Autostart
+
+```
+<div class="embed-responsive embed-responsive-16by9">
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ctvlUvN6wSE?autoplay=1"></iframe>
+</div>
+```
+
+
 # Useful links
 
 ### Icons
@@ -70,15 +97,6 @@ Basic usage:
 
 ### Hover Effects
 https://miketricking.github.io/dist/
-
-### Image as background
-```
-<div class="img-portfolio" style="background-image: url(images/INSERTNAMEHERE.jpg); 50% 50%;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;">
-</div>
-
-```
-
-Remember to create height in LESS for this element (img-portfolio).
 
 ### Need images?
 
